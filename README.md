@@ -1,0 +1,1 @@
+# TypeSenceAsp.netCoreAPI
